@@ -46,3 +46,18 @@ footer {
     color: #fff;
     text-align: center;
 }
+
+#about {
+    display: flex;
+    align-items: flex-start;
+}
+
+.about-image {
+    max-width: 200px; /* Adjust the size as needed */
+    margin-right: 20px; /* Adjust spacing between image and text */
+}
+
+.resume-download-button {
+    display: inline-block;
+    margin-top: 20px;
+}
